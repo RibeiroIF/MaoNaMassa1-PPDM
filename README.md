@@ -1,22 +1,12 @@
-Mão na Massa - Programação para Dispositivos Móveis
+<h1> Mão na Massa - Programação para Dispositivos Móveis </h1>
 
-Olá! Nas próximas semanas, o professor vai desenvolver os seguintes assuntos com você, por meio de vídeos:
+<h4> Neste repositório constam os arquivos referentes às 4 iterações do projeto Mão na Massa 1 repassado como atividade para entrega, entre estas sendo: </h4>
 
-* Framework Responsivo - Bootstrap.
-* Single-Page Application.
-* Consumindo APIs REST com JavaScript: Fetch e Axios.
-* Progressive Web App.
+<ul>
+  <li> Framework Responsivo - Bootstrap </li>
+  <li> Single-Page Application  </li>
+  <li> Consumindo APIs REST com JavaScript: Fetch e Axios  </li>
+  <li> Progressive Web App </li>
+</ul>
 
-Cada vídeo vai mostrar como elaborar uma parte de um aplicativo móvel de e-commerce.
-
-O objetivo deste Mão na Massa é que você construa o app de e-commerce com sucesso, seguindo o que for apresentado nos vídeos.
-
-Ao final, você deve entregar:
-
-01. Código fonte
-Um link para o código fonte no github em um projeto aberto.
-
-02. Vídeo
-Um link para o YouTube com o vídeo da apresentação do aplicativo funcionando narrado por você.
-
-Os subdiretórios neste repositório tem os códigos desenvolvidos nos tutoriais.
+<p> Incluindo acesso ao link do vídeo explicando o uso da aplicação <strong> <a href=""> aqui </a> </strong> </p>
