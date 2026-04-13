@@ -9,4 +9,4 @@
   <li> Progressive Web App </li>
 </ul>
 
-<p> Incluindo acesso ao link do vídeo explicando o uso da aplicação <strong> <a href="https://youtu.be/avOEtbGQ3s0?si=7w9xhjERJlpk6MmI"> aqui </a> </strong> </p>
+<p> Incluindo acesso ao link do vídeo explicando o uso da aplicação <strong> <a href="https://youtu.be/avOEtbGQ3s0?si=7w9xhjERJlpk6MmI"> aqui </a> </strong> (perdão pela interferência do microfone no áudio do vídeo) </p>
